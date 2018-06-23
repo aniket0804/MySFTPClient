@@ -4,7 +4,7 @@
 $server = '127.0.0.1';
 $username = 'root';
 $password = 'root';
-$database = 'SMS';
+$database = 'XXX';
 
 #Project Folder Config
 $foldername = 'MySFTPClient';
