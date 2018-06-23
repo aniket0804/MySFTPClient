@@ -14,4 +14,6 @@ Run database.sql file and do valid email and choose any password just to login t
 Update database.php file with respective localserver and database name and table.
 Also, put valid smtp server as this servlet performs operation on files which are available on remote sftp server do some operations on files and email you with download link. [ You can customise the same as per your requirements. ]
 
-Update your sftp server details and choose directory of sftp server and provide public key path to access sftp server if any. You can use single or dual authentication as per sftp server.
+Update your sftp server details and choose directory of sftp server.
+
+If any key sftp server asks for auth then keep the .pem file in project folder and assign its file name in database.php file.
