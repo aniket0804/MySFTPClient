@@ -1,0 +1,8 @@
+[MOBILE]
+data_required=True
+type=integer
+maxlen=20
+
+[NAME]
+data_required=True
+type=string
