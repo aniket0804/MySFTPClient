@@ -17,3 +17,7 @@ Also, put valid smtp server as this servlet performs operation on files which ar
 Update your sftp server details and choose directory of sftp server.
 
 If any key sftp server asks for auth then keep the .pem file in project folder and assign its file name in database.php file.
+
+
+
+
