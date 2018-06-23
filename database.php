@@ -7,7 +7,7 @@ $password = 'root';
 $database = 'SMS';
 
 #Project Folder Config
-$foldername = 'CheckSFTPClient';
+$foldername = 'MySFTPClient';
 $basepath = "/var/www/html/$foldername";
 
 #Existance of download directory is must in project folder.
