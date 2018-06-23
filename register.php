@@ -46,7 +46,7 @@ endif;
 <body>
 
 	<div class="header">
-		<a href="/">Your App Name</a>
+		<a href="/">MY SFTP CLIENT</a>
 	</div>
 
 	<?php if(!empty($message)): ?>
